@@ -7,4 +7,3 @@ class Movie():
         self.trailer=trailer
     def show_trailer(self):
         webbrowser.open(self.trailer)
-        
